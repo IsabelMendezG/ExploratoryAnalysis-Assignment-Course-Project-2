@@ -1,8 +1,5 @@
 library("data.table")
 
-#Save file in that folder
-
-
 
 # Download archive file, if it does not exist
 archiveFile <- "NEI_data.zip"
