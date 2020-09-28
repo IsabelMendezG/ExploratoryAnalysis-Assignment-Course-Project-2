@@ -1,8 +1,6 @@
 library("data.table")
 library(ggplot2)
 
-#Save file in that folder
-
 
 
 # Download archive file, if it does not exist
